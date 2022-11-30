@@ -5,6 +5,7 @@
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Shivani R](https://github.com/shivu-srk)
+- [Vansh Sood] (https://github.com/Vanshsback)
 - [Arman Karimi](https://github.com/iArmanKarimi/)
 - [SleepyPeanut] (https://github.com/sleepypeanut)
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
@@ -785,3 +786,4 @@
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
+-
